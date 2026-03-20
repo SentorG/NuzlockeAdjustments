@@ -8,7 +8,7 @@
 | **Hard Mode** | Easy Mode is banned and must not be enabled at any point during the run. |
 | **Set Mode** | Set Mode must be enabled for the entire run. |
 | **Random Starter** | Lab Pokémon must be chosen at random. |
-| **Wheel's Choice** | Instead of taking the first encounter on a Route, a wheel spin will decide **WHICH NUMBER ENCOUNTER** will be chosen. Encounter rule details can be found [here](https://platinumkaizo.com/hall-of-fame-rules/#encounter-rules). |
+| **Wheel's Choice** | Instead of taking the first encounter on a Route, a wheel spin will decide **WHICH NUMBER ENCOUNTER** will be chosen.<br>Encounter rule details can be found [here](https://platinumkaizo.com/hall-of-fame-rules/#encounter-rules). |
 | **Supercharged** | May use PKHex to manually apply x3 31 IVs and a Nature of choice to each Pokémon once per run. |
 | **Blessed Economy** | May use PKHex to add any item & quantity to the Bag. |
 | **Friends Forever** | If a Pokémon faints, they are not considered "dead". |
