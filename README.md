@@ -8,9 +8,9 @@
 | **Fresh Run** | When starting a new run, a new Trainer ID must be generated. |
 | **Hard Mode** | Easy Mode is banned and must not be enabled at any point during the run. |
 | **Set Mode** | Set Mode must be enabled for the entire run. |
+| **Random Starter** | Lab Pokémon must be chosen at random. |
 | **Wheel's Choice** | Instead of taking the first encounter on a Route, a wheel spin will decide **WHICH NUMBER ENCOUNTER** will be chosen. Encounter rule details can be found [here](https://platinumkaizo.com/hall-of-fame-rules/#encounter-rules). |
-| **Supercharged** | May use PKHex to manually apply the maximum amount of EVs desired and can be changed at any point.<br>**MUST NOT** change IVs or Nature. |
+| **Supercharged** | May use PKHex to manually apply x3 31 IVs and a Nature of choice to each Pokémon once per run. |
 | **Blessed Economy** | May use PKHex to add any item & quantity to the Bag. |
-| **5 Items Per Battle** | Only five items from the Bag, including Ball-stall turns, are permitted for each battle. |
 | **Friends Forever** | If a Pokémon faints, they are not considered "dead". |
 | **Hardcore Level Cap** | Must adhere to the Hall of Fame run [level cap guide](https://platinumkaizo.com/hall-of-fame-rules/#level-caps). |
